@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fender Stratocaster Guitar
+* source:	https://sketchfab.com/3d-models/fender-stratocaster-guitar-32faf1b0a2a74e25ad74267227d74a17
+* author:	boogie4631 (https://sketchfab.com/boogie4631)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fender Stratocaster Guitar" (https://sketchfab.com/3d-models/fender-stratocaster-guitar-32faf1b0a2a74e25ad74267227d74a17) by boogie4631 (https://sketchfab.com/boogie4631) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

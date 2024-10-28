@@ -1,0 +1,11 @@
+Model Information:
+* title:	Teddy Bear / Photogrammetry
+* source:	https://sketchfab.com/3d-models/teddy-bear-photogrammetry-69e6b319de6b4abdb796e53e8be1d6bb
+* author:	Marucha535 (https://sketchfab.com/marek.dworecki01)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Teddy Bear / Photogrammetry" (https://sketchfab.com/3d-models/teddy-bear-photogrammetry-69e6b319de6b4abdb796e53e8be1d6bb) by Marucha535 (https://sketchfab.com/marek.dworecki01) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
